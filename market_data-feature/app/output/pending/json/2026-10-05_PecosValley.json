@@ -1,0 +1,890 @@
+[
+  {
+    "store": "Alamogordo",
+    "category": "Flower",
+    "page": 1,
+    "count": 12
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 10
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 16
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 2
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Edibles",
+    "page": 2,
+    "count": 2
+  },
+  {
+    "store": "Alamogordo",
+    "category": "Accessories",
+    "page": 1,
+    "count": 2
+  },
+  {
+    "store": "Alameda",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Alameda",
+    "category": "Flower",
+    "page": 2,
+    "count": 6
+  },
+  {
+    "store": "Alameda",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Alameda",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Alameda",
+    "category": "Pre-rolls",
+    "page": 3,
+    "count": 6
+  },
+  {
+    "store": "Alameda",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 15
+  },
+  {
+    "store": "Alameda",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 12
+  },
+  {
+    "store": "Alameda",
+    "category": "Edibles",
+    "page": 1,
+    "count": 17
+  },
+  {
+    "store": "Alameda",
+    "category": "Accessories",
+    "page": 1,
+    "count": 14
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Flower",
+    "page": 2,
+    "count": 10
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Pre-rolls",
+    "page": 3,
+    "count": 2
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 7
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 9
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Edibles",
+    "page": 2,
+    "count": 4
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "CBD",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Albuquerque - 98th St.",
+    "category": "Accessories",
+    "page": 1,
+    "count": 4
+  },
+  {
+    "store": "Artesia",
+    "category": "Flower",
+    "page": 1,
+    "count": 18
+  },
+  {
+    "store": "Artesia",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Artesia",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 9
+  },
+  {
+    "store": "Artesia",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Artesia",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 5
+  },
+  {
+    "store": "Artesia",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Artesia",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 17
+  },
+  {
+    "store": "Artesia",
+    "category": "Edibles",
+    "page": 1,
+    "count": 16
+  },
+  {
+    "store": "Artesia",
+    "category": "CBD",
+    "page": 1,
+    "count": 1
+  },
+  {
+    "store": "Artesia",
+    "category": "Accessories",
+    "page": 1,
+    "count": 4
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Flower",
+    "page": 1,
+    "count": 16
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 1
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 9
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Edibles",
+    "page": 2,
+    "count": 17
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "CBD",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Carlsbad - Canal",
+    "category": "Accessories",
+    "page": 1,
+    "count": 4
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Flower",
+    "page": 1,
+    "count": 17
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 17
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 2
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 17
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Edibles",
+    "page": 2,
+    "count": 11
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "CBD",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Carlsbad - Mermod",
+    "category": "Accessories",
+    "page": 1,
+    "count": 7
+  },
+  {
+    "store": "Clovis",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Clovis",
+    "category": "Flower",
+    "page": 2,
+    "count": 6
+  },
+  {
+    "store": "Clovis",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Clovis",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 10
+  },
+  {
+    "store": "Clovis",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Clovis",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Clovis",
+    "category": "Vaporizers",
+    "page": 3,
+    "count": 20
+  },
+  {
+    "store": "Clovis",
+    "category": "Vaporizers",
+    "page": 4,
+    "count": 12
+  },
+  {
+    "store": "Clovis",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Clovis",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 5
+  },
+  {
+    "store": "Clovis",
+    "category": "Edibles",
+    "page": 1,
+    "count": 10
+  },
+  {
+    "store": "Clovis",
+    "category": "Accessories",
+    "page": 1,
+    "count": 4
+  },
+  {
+    "store": "Edgewood",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Edgewood",
+    "category": "Flower",
+    "page": 2,
+    "count": 6
+  },
+  {
+    "store": "Edgewood",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 19
+  },
+  {
+    "store": "Edgewood",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Edgewood",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Edgewood",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 5
+  },
+  {
+    "store": "Edgewood",
+    "category": "Edibles",
+    "page": 1,
+    "count": 5
+  },
+  {
+    "store": "Edgewood",
+    "category": "Accessories",
+    "page": 1,
+    "count": 2
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Flower",
+    "page": 1,
+    "count": 19
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 7
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 9
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 16
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Edibles",
+    "page": 2,
+    "count": 4
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "CBD",
+    "page": 1,
+    "count": 2
+  },
+  {
+    "store": "Hobbs - Navajo",
+    "category": "Accessories",
+    "page": 1,
+    "count": 4
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Flower",
+    "page": 1,
+    "count": 15
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 19
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Vaporizers",
+    "page": 3,
+    "count": 1
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Concentrates",
+    "page": 3,
+    "count": 6
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Edibles",
+    "page": 1,
+    "count": 10
+  },
+  {
+    "store": "Las Cruces - Roadrunner",
+    "category": "Accessories",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Flower",
+    "page": 1,
+    "count": 10
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 11
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Vaporizers",
+    "page": 3,
+    "count": 5
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 10
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Edibles",
+    "page": 2,
+    "count": 16
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "CBD",
+    "page": 1,
+    "count": 1
+  },
+  {
+    "store": "Las Cruces - Locust",
+    "category": "Accessories",
+    "page": 1,
+    "count": 5
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Flower",
+    "page": 1,
+    "count": 6
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 9
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 11
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Edibles",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Edibles",
+    "page": 2,
+    "count": 12
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "CBD",
+    "page": 1,
+    "count": 1
+  },
+  {
+    "store": "Lovington Hobbs",
+    "category": "Accessories",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Flower",
+    "page": 2,
+    "count": 2
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 3
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 1
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 8
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Edibles",
+    "page": 1,
+    "count": 18
+  },
+  {
+    "store": "Roswell - W. Country Club Rd.",
+    "category": "Accessories",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Flower",
+    "page": 2,
+    "count": 6
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Pre-rolls",
+    "page": 2,
+    "count": 8
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Vaporizers",
+    "page": 2,
+    "count": 20
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Vaporizers",
+    "page": 3,
+    "count": 18
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 13
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Edibles",
+    "page": 1,
+    "count": 18
+  },
+  {
+    "store": "Roswell - North Main St.",
+    "category": "Accessories",
+    "page": 1,
+    "count": 3
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Flower",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Flower",
+    "page": 2,
+    "count": 1
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Pre-rolls",
+    "page": 1,
+    "count": 18
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Vaporizers",
+    "page": 1,
+    "count": 13
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Concentrates",
+    "page": 1,
+    "count": 20
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Concentrates",
+    "page": 2,
+    "count": 11
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Edibles",
+    "page": 1,
+    "count": 17
+  },
+  {
+    "store": "Ruidoso",
+    "category": "Accessories",
+    "page": 1,
+    "count": 3
+  }
+]

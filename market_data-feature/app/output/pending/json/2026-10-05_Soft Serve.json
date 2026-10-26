@@ -1,0 +1,50 @@
+{
+  "per_store_category_counts": [
+    {
+      "store": "Albuquerque",
+      "category": "flower",
+      "count": 207
+    },
+    {
+      "store": "Albuquerque",
+      "category": "vape",
+      "count": 221
+    },
+    {
+      "store": "Albuquerque",
+      "category": "extract",
+      "count": 106
+    },
+    {
+      "store": "Albuquerque",
+      "category": "edible",
+      "count": 174
+    },
+    {
+      "store": "Albuquerque",
+      "category": "pre-roll",
+      "count": 165
+    },
+    {
+      "store": "Albuquerque",
+      "category": "tincture",
+      "count": 2
+    },
+    {
+      "store": "Albuquerque",
+      "category": "topical",
+      "count": 4
+    },
+    {
+      "store": "Albuquerque",
+      "category": "gear",
+      "count": 77
+    },
+    {
+      "store": "Albuquerque",
+      "category": "merch",
+      "count": 0
+    }
+  ],
+  "total_rows": 440
+}

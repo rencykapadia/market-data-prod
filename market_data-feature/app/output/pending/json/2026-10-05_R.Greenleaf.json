@@ -1,0 +1,590 @@
+{
+  "per_store_category_counts": [
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "flower",
+      "count": 121
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "vape",
+      "count": 177
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "extract",
+      "count": 45
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "edible",
+      "count": 123
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "pre-roll",
+      "count": 98
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "topical",
+      "count": 3
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "gear",
+      "count": 11
+    },
+    {
+      "store": "Albuquerque - Cottonwood",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "flower",
+      "count": 106
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "vape",
+      "count": 187
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "extract",
+      "count": 49
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "edible",
+      "count": 132
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "pre-roll",
+      "count": 92
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "topical",
+      "count": 7
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "gear",
+      "count": 36
+    },
+    {
+      "store": "Albuquerque - Midtown",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "flower",
+      "count": 103
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "vape",
+      "count": 141
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "extract",
+      "count": 42
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "edible",
+      "count": 118
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "pre-roll",
+      "count": 82
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "tincture",
+      "count": 2
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "topical",
+      "count": 5
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "gear",
+      "count": 10
+    },
+    {
+      "store": "Albuquerque - Northeast Heights",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "flower",
+      "count": 112
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "vape",
+      "count": 169
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "extract",
+      "count": 44
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "edible",
+      "count": 125
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "pre-roll",
+      "count": 100
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "topical",
+      "count": 5
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "gear",
+      "count": 11
+    },
+    {
+      "store": "Albuquerque - West Side",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "flower",
+      "count": 86
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "vape",
+      "count": 152
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "extract",
+      "count": 56
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "edible",
+      "count": 133
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "pre-roll",
+      "count": 95
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "topical",
+      "count": 6
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "gear",
+      "count": 10
+    },
+    {
+      "store": "Albuquerque - Yale",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Carlsbad",
+      "category": "flower",
+      "count": 101
+    },
+    {
+      "store": "Carlsbad",
+      "category": "vape",
+      "count": 158
+    },
+    {
+      "store": "Carlsbad",
+      "category": "extract",
+      "count": 45
+    },
+    {
+      "store": "Carlsbad",
+      "category": "edible",
+      "count": 149
+    },
+    {
+      "store": "Carlsbad",
+      "category": "pre-roll",
+      "count": 106
+    },
+    {
+      "store": "Carlsbad",
+      "category": "tincture",
+      "count": 1
+    },
+    {
+      "store": "Carlsbad",
+      "category": "topical",
+      "count": 5
+    },
+    {
+      "store": "Carlsbad",
+      "category": "gear",
+      "count": 4
+    },
+    {
+      "store": "Carlsbad",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Clovis",
+      "category": "flower",
+      "count": 115
+    },
+    {
+      "store": "Clovis",
+      "category": "vape",
+      "count": 180
+    },
+    {
+      "store": "Clovis",
+      "category": "extract",
+      "count": 44
+    },
+    {
+      "store": "Clovis",
+      "category": "edible",
+      "count": 123
+    },
+    {
+      "store": "Clovis",
+      "category": "pre-roll",
+      "count": 109
+    },
+    {
+      "store": "Clovis",
+      "category": "tincture",
+      "count": 4
+    },
+    {
+      "store": "Clovis",
+      "category": "topical",
+      "count": 4
+    },
+    {
+      "store": "Clovis",
+      "category": "gear",
+      "count": 10
+    },
+    {
+      "store": "Clovis",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Grants",
+      "category": "flower",
+      "count": 105
+    },
+    {
+      "store": "Grants",
+      "category": "vape",
+      "count": 189
+    },
+    {
+      "store": "Grants",
+      "category": "extract",
+      "count": 55
+    },
+    {
+      "store": "Grants",
+      "category": "edible",
+      "count": 137
+    },
+    {
+      "store": "Grants",
+      "category": "pre-roll",
+      "count": 102
+    },
+    {
+      "store": "Grants",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Grants",
+      "category": "topical",
+      "count": 3
+    },
+    {
+      "store": "Grants",
+      "category": "gear",
+      "count": 10
+    },
+    {
+      "store": "Grants",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Hobbs",
+      "category": "flower",
+      "count": 73
+    },
+    {
+      "store": "Hobbs",
+      "category": "vape",
+      "count": 147
+    },
+    {
+      "store": "Hobbs",
+      "category": "extract",
+      "count": 53
+    },
+    {
+      "store": "Hobbs",
+      "category": "edible",
+      "count": 124
+    },
+    {
+      "store": "Hobbs",
+      "category": "pre-roll",
+      "count": 113
+    },
+    {
+      "store": "Hobbs",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Hobbs",
+      "category": "topical",
+      "count": 7
+    },
+    {
+      "store": "Hobbs",
+      "category": "gear",
+      "count": 9
+    },
+    {
+      "store": "Hobbs",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Las Cruces",
+      "category": "flower",
+      "count": 96
+    },
+    {
+      "store": "Las Cruces",
+      "category": "vape",
+      "count": 135
+    },
+    {
+      "store": "Las Cruces",
+      "category": "extract",
+      "count": 45
+    },
+    {
+      "store": "Las Cruces",
+      "category": "edible",
+      "count": 127
+    },
+    {
+      "store": "Las Cruces",
+      "category": "pre-roll",
+      "count": 95
+    },
+    {
+      "store": "Las Cruces",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Las Cruces",
+      "category": "topical",
+      "count": 6
+    },
+    {
+      "store": "Las Cruces",
+      "category": "gear",
+      "count": 0
+    },
+    {
+      "store": "Las Cruces",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "flower",
+      "count": 91
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "vape",
+      "count": 189
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "extract",
+      "count": 50
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "edible",
+      "count": 137
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "pre-roll",
+      "count": 96
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "topical",
+      "count": 4
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "gear",
+      "count": 10
+    },
+    {
+      "store": "Las Vegas NM",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Roswell",
+      "category": "flower",
+      "count": 86
+    },
+    {
+      "store": "Roswell",
+      "category": "vape",
+      "count": 198
+    },
+    {
+      "store": "Roswell",
+      "category": "extract",
+      "count": 57
+    },
+    {
+      "store": "Roswell",
+      "category": "edible",
+      "count": 123
+    },
+    {
+      "store": "Roswell",
+      "category": "pre-roll",
+      "count": 92
+    },
+    {
+      "store": "Roswell",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Roswell",
+      "category": "topical",
+      "count": 5
+    },
+    {
+      "store": "Roswell",
+      "category": "gear",
+      "count": 3
+    },
+    {
+      "store": "Roswell",
+      "category": "merch",
+      "count": 0
+    },
+    {
+      "store": "Santa Fe",
+      "category": "flower",
+      "count": 120
+    },
+    {
+      "store": "Santa Fe",
+      "category": "vape",
+      "count": 133
+    },
+    {
+      "store": "Santa Fe",
+      "category": "extract",
+      "count": 46
+    },
+    {
+      "store": "Santa Fe",
+      "category": "edible",
+      "count": 123
+    },
+    {
+      "store": "Santa Fe",
+      "category": "pre-roll",
+      "count": 92
+    },
+    {
+      "store": "Santa Fe",
+      "category": "tincture",
+      "count": 3
+    },
+    {
+      "store": "Santa Fe",
+      "category": "topical",
+      "count": 6
+    },
+    {
+      "store": "Santa Fe",
+      "category": "gear",
+      "count": 10
+    },
+    {
+      "store": "Santa Fe",
+      "category": "merch",
+      "count": 0
+    }
+  ],
+  "total_rows": 5025
+}
